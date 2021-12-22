@@ -162,6 +162,7 @@ h1 {
 	margin: 0px 0px 8px 0px;
 	line-height: 20px;
 	font-size: 20px;padding: 10px;
+	color: #666;
 }
 
 .post-image{
@@ -183,7 +184,16 @@ h1 {
 	padding: 20px 30px;
 	background: url('http://wpexplorer-demos.com/fabulous/wp-content/themes/wpex-fabulous/images/entry-meta-shadow.png') no-repeat scroll center top #FBFBFB;
 	border-radius: 0px 0px 3px 3px;
+
+	background: #222222!important;
+    border-radius: 0;
+    color: #666;
 }
+
+.post-title {
+    margin: 10px 0px 8px 0px;
+}
+
 
 #side-bar {
 background: #fff;
@@ -338,16 +348,6 @@ only screen and (max-width: 600px) {
 	#page img {
 		width: 100%;
 	}
-}
-
-
-.post-content {
-    background: #222222!important;
-    border-radius: 0;
-    color: #444;
-}
-.post-title {
-    margin: 40px 0px 8px 0px;
 }
 
 section{
