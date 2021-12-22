@@ -5,23 +5,23 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Dec 2021 20:59:45 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Dec 2021 20:59:45 -0500</lastBuildDate>
+    <pubDate>Wed, 22 Dec 2021 12:04:05 -0500</pubDate>
+    <lastBuildDate>Wed, 22 Dec 2021 12:04:05 -0500</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
         <title>NGC5033 - Spiral Galaxy</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/NGC5033_full.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/NGC5033_full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/NGC5033_full.jpg 250w,    /images/resized/320/NGC5033_full.jpg 320w,    /images/resized/480/NGC5033_full.jpg 480w,    /images/resized/800/NGC5033_full.jpg 800w,    /images/resized/1200/NGC5033_full.jpg 1200w,    /images/resized/1600/NGC5033_full.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/NGC5033_full.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/NGC5033_full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/NGC5033_full.jpg 250w,    /images/resized/320/NGC5033_full.jpg 320w,    /images/resized/480/NGC5033_full.jpg 480w,    /images/resized/800/NGC5033_full.jpg 800w,    /images/resized/1200/NGC5033_full.jpg 1200w,    /images/resized/1600/NGC5033_full.jpg 1600w,    /images/resized/2200/NGC5033_full.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;NGC5033, at a distance of about 40-60 million light years, is a spiral galaxy with beautifully “flailing” arms, roughly the same size as our Milky Way Galaxy.&lt;/p&gt;
 
 &lt;p&gt;Imaged March 3 and March 4 2017, with a Celestron 11” Edge at f/10 and QSI683WSG with Astrodon RGB filters. Roughly 16 exposures of R, G, and B images.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/NGC5033_full_annotated.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/NGC5033_full_annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/NGC5033_full_annotated.jpg 250w,    /images/resized/320/NGC5033_full_annotated.jpg 320w,    /images/resized/480/NGC5033_full_annotated.jpg 480w,    /images/resized/800/NGC5033_full_annotated.jpg 800w,    /images/resized/1200/NGC5033_full_annotated.jpg 1200w,    /images/resized/1600/NGC5033_full_annotated.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/NGC5033_full_annotated.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/NGC5033_full_annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/NGC5033_full_annotated.jpg 250w,    /images/resized/320/NGC5033_full_annotated.jpg 320w,    /images/resized/480/NGC5033_full_annotated.jpg 480w,    /images/resized/800/NGC5033_full_annotated.jpg 800w,    /images/resized/1200/NGC5033_full_annotated.jpg 1200w,    /images/resized/1600/NGC5033_full_annotated.jpg 1600w,    /images/resized/2200/NGC5033_full_annotated.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;pre&gt;Resolution ........ 0.397 arcsec/pix
@@ -48,8 +48,8 @@ Image center ...... RA: 13 13 27.217  Dec: +36 35 39.65
       <item>
         <title>Moon - Waxing Gibbous (Dec 20, 2015)</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/Moon-12-20-2015.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/Moon-12-20-2015.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Moon-12-20-2015.jpg 250w,    /images/resized/320/Moon-12-20-2015.jpg 320w,    /images/resized/480/Moon-12-20-2015.jpg 480w,    /images/resized/800/Moon-12-20-2015.jpg 800w,    /images/resized/1200/Moon-12-20-2015.jpg 1200w,    /images/resized/1600/Moon-12-20-2015.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/Moon-12-20-2015.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/Moon-12-20-2015.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Moon-12-20-2015.jpg 250w,    /images/resized/320/Moon-12-20-2015.jpg 320w,    /images/resized/480/Moon-12-20-2015.jpg 480w,    /images/resized/800/Moon-12-20-2015.jpg 800w,    /images/resized/1200/Moon-12-20-2015.jpg 1200w,    /images/resized/1600/Moon-12-20-2015.jpg 1600w,    /images/resized/2200/Moon-12-20-2015.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Waxing gibbous moon taken Dec 20, 2015.  Two panel mosaic with an SCT 11” with .7x reducer, each panel about 30 frames of 0.4s with a QSI683 and Ha filter.&lt;/p&gt;
@@ -70,14 +70,14 @@ Image center ...... RA: 13 13 27.217  Dec: +36 35 39.65
       <item>
         <title>NGC2403 - Spiral Galaxy</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/ngc2403_final.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/ngc2403_final.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/ngc2403_final.jpg 250w,    /images/resized/320/ngc2403_final.jpg 320w,    /images/resized/480/ngc2403_final.jpg 480w,    /images/resized/800/ngc2403_final.jpg 800w,    /images/resized/1200/ngc2403_final.jpg 1200w,    /images/resized/1600/ngc2403_final.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/ngc2403_final.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/ngc2403_final.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/ngc2403_final.jpg 250w,    /images/resized/320/ngc2403_final.jpg 320w,    /images/resized/480/ngc2403_final.jpg 480w,    /images/resized/800/ngc2403_final.jpg 800w,    /images/resized/1200/ngc2403_final.jpg 1200w,    /images/resized/1600/ngc2403_final.jpg 1600w,    /images/resized/2200/ngc2403_final.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;NGC2403 is an intermediate spiral galaxy near M81.  At about 10 million light years away and 50,000 light years across, the galaxy has a large number of star forming regions – seen by the red/pink glowing areas.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/ngc2403_final_annotated.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/ngc2403_final_annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/ngc2403_final_annotated.jpg 250w,    /images/resized/320/ngc2403_final_annotated.jpg 320w,    /images/resized/480/ngc2403_final_annotated.jpg 480w,    /images/resized/800/ngc2403_final_annotated.jpg 800w,    /images/resized/1200/ngc2403_final_annotated.jpg 1200w,    /images/resized/1600/ngc2403_final_annotated.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/ngc2403_final_annotated.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/ngc2403_final_annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/ngc2403_final_annotated.jpg 250w,    /images/resized/320/ngc2403_final_annotated.jpg 320w,    /images/resized/480/ngc2403_final_annotated.jpg 480w,    /images/resized/800/ngc2403_final_annotated.jpg 800w,    /images/resized/1200/ngc2403_final_annotated.jpg 1200w,    /images/resized/1600/ngc2403_final_annotated.jpg 1600w,    /images/resized/2200/ngc2403_final_annotated.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;pre&gt;Resolution ........ 0.575 arcsec/pix
@@ -104,23 +104,23 @@ Image center ...... RA: 07 36 46.016  Dec: +65 36 28.12
       <item>
         <title>NGC7635 - The Bubble Nebula Wide-field</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/Bubble-NB-with-RGB-Full.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/Bubble-NB-with-RGB-Full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Bubble-NB-with-RGB-Full.jpg 250w,    /images/resized/320/Bubble-NB-with-RGB-Full.jpg 320w,    /images/resized/480/Bubble-NB-with-RGB-Full.jpg 480w,    /images/resized/800/Bubble-NB-with-RGB-Full.jpg 800w,    /images/resized/1200/Bubble-NB-with-RGB-Full.jpg 1200w,    /images/resized/1600/Bubble-NB-with-RGB-Full.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/Bubble-NB-with-RGB-Full.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/Bubble-NB-with-RGB-Full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Bubble-NB-with-RGB-Full.jpg 250w,    /images/resized/320/Bubble-NB-with-RGB-Full.jpg 320w,    /images/resized/480/Bubble-NB-with-RGB-Full.jpg 480w,    /images/resized/800/Bubble-NB-with-RGB-Full.jpg 800w,    /images/resized/1200/Bubble-NB-with-RGB-Full.jpg 1200w,    /images/resized/1600/Bubble-NB-with-RGB-Full.jpg 1600w,    /images/resized/2200/Bubble-NB-with-RGB-Full.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Revisiting the Bubble Nebula from last year, the area surrounding the Bubble is rich with nebulosity and cluster M52, making it a fine wide-field target.  In this case, I decided to shoot narrowband – typically, narrowband star colors are purple or off-color depending on the palette used, and for this particular image, I decided to mix in natural color RGB stars to make the M52 cluster look more natural.&lt;/p&gt;
 
 &lt;p&gt;The Bubble Nebula, NGC7635 and Sh2-162, is an emission nebula in Cassiopeia about 10,000 light years away.  The bubble itself (about 10 light years across) is formed and pushed out by a massive star in the middle of the bubble – its stellar wind irradiating the gas and causing it to glow.  M52, the nearby open cluster, is roughly 5,000 light years away.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/Bubble-NB-with-RGB-Full-Annotated.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/Bubble-NB-with-RGB-Full-Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Bubble-NB-with-RGB-Full-Annotated.jpg 250w,    /images/resized/320/Bubble-NB-with-RGB-Full-Annotated.jpg 320w,    /images/resized/480/Bubble-NB-with-RGB-Full-Annotated.jpg 480w,    /images/resized/800/Bubble-NB-with-RGB-Full-Annotated.jpg 800w,    /images/resized/1200/Bubble-NB-with-RGB-Full-Annotated.jpg 1200w,    /images/resized/1600/Bubble-NB-with-RGB-Full-Annotated.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/Bubble-NB-with-RGB-Full-Annotated.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/Bubble-NB-with-RGB-Full-Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Bubble-NB-with-RGB-Full-Annotated.jpg 250w,    /images/resized/320/Bubble-NB-with-RGB-Full-Annotated.jpg 320w,    /images/resized/480/Bubble-NB-with-RGB-Full-Annotated.jpg 480w,    /images/resized/800/Bubble-NB-with-RGB-Full-Annotated.jpg 800w,    /images/resized/1200/Bubble-NB-with-RGB-Full-Annotated.jpg 1200w,    /images/resized/1600/Bubble-NB-with-RGB-Full-Annotated.jpg 1600w,    /images/resized/2200/Bubble-NB-with-RGB-Full-Annotated.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The narrowband images consist of 24 1200s Ha, 16 1200s OIII, and 16 1200s SII with a Tak FSQ106 and QSI683 camera.&lt;/p&gt;
 
 &lt;p&gt;For RGB stars, I took 8 180s exposures each of R, G, and B.  The short exposures are sufficient as stars saturate quickly, but typically, longer exposures are needed to bring out the faint nebulosity (not needed in this case).  While the RGB stars image was intended only for star color, the image below is what the area looks like in natural light.  Despite the short exposure, the Bubble itself is reasonably bright!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/rgb_demo_cropped-1600.jpg&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/1200/rgb_demo_cropped-1600.jpg&quot;&gt;
 &lt;img src=&quot;/images/resized/1200/rgb_demo_cropped-1600.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/rgb_demo_cropped-1600.jpg 250w,    /images/resized/320/rgb_demo_cropped-1600.jpg 320w,    /images/resized/480/rgb_demo_cropped-1600.jpg 480w,    /images/resized/800/rgb_demo_cropped-1600.jpg 800w,    /images/resized/1200/rgb_demo_cropped-1600.jpg 1200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -152,16 +152,16 @@ Image center ...... RA: 23 21 15.462  Dec: +61 10 53.65
       <item>
         <title>IC443 - The Jellyfish Nebula</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/IC443-Full.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/IC443-Full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/IC443-Full.jpg 250w,    /images/resized/320/IC443-Full.jpg 320w,    /images/resized/480/IC443-Full.jpg 480w,    /images/resized/800/IC443-Full.jpg 800w,    /images/resized/1200/IC443-Full.jpg 1200w,    /images/resized/1600/IC443-Full.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/IC443-Full.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/IC443-Full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/IC443-Full.jpg 250w,    /images/resized/320/IC443-Full.jpg 320w,    /images/resized/480/IC443-Full.jpg 480w,    /images/resized/800/IC443-Full.jpg 800w,    /images/resized/1200/IC443-Full.jpg 1200w,    /images/resized/1600/IC443-Full.jpg 1600w,    /images/resized/2200/IC443-Full.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;IC443, The Jellyfish Nebula, is a supernova remnant in the constellation Gemini.  At roughly 5,000 light years, the Jellyfish sits near the star Tejat Prior (meaning ‘forward foot’), the left foot of the northern twin.  (Tejat Prior is, itself, a triple star system, at magnitude ~3.2 – so reasonably easy to spot in most skies.)&lt;/p&gt;
 
 &lt;p&gt;This image consists of 24 1200s Ha, 16 1200s OIII, and 18 1200s SII exposures with a Tak FSQ106 and QSI683 camera.  Total integration: 11.3 hours.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/IC443-Full-Annotated.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/IC443-Full-Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/IC443-Full-Annotated.jpg 250w,    /images/resized/320/IC443-Full-Annotated.jpg 320w,    /images/resized/480/IC443-Full-Annotated.jpg 480w,    /images/resized/800/IC443-Full-Annotated.jpg 800w,    /images/resized/1200/IC443-Full-Annotated.jpg 1200w,    /images/resized/1600/IC443-Full-Annotated.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/IC443-Full-Annotated.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/IC443-Full-Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/IC443-Full-Annotated.jpg 250w,    /images/resized/320/IC443-Full-Annotated.jpg 320w,    /images/resized/480/IC443-Full-Annotated.jpg 480w,    /images/resized/800/IC443-Full-Annotated.jpg 800w,    /images/resized/1200/IC443-Full-Annotated.jpg 1200w,    /images/resized/1600/IC443-Full-Annotated.jpg 1600w,    /images/resized/2200/IC443-Full-Annotated.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;pre&gt;Resolution ........ 2.103 arcsec/pix
@@ -197,20 +197,20 @@ Image center ...... RA: 06 17 17.646  Dec: +22 44 35.39
 
 &lt;p&gt;The cooler itself is simple. It’s constructed from a small lunch bag cooler that happens to have a separate compartment for a soda can. This works well, as I decided to use a soda can as a dry ice hopper. While copper would be a better conductor, I think aluminum here is better suited to the task.  Plus, this makes the hopper the cost of a soda can – very easy to swap in/out in a few seconds.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/cooler/20151111_153659.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/20151111_153659.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/20151111_153659.jpg 250w,    /images/resized/320/20151111_153659.jpg 320w,    /images/resized/480/20151111_153659.jpg 480w,    /images/resized/800/20151111_153659.jpg 800w,    /images/resized/1200/20151111_153659.jpg 1200w,    /images/resized/1600/20151111_153659.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/20151111_153659.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/20151111_153659.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/20151111_153659.jpg 250w,    /images/resized/320/20151111_153659.jpg 320w,    /images/resized/480/20151111_153659.jpg 480w,    /images/resized/800/20151111_153659.jpg 800w,    /images/resized/1200/20151111_153659.jpg 1200w,    /images/resized/1600/20151111_153659.jpg 1600w,    /images/resized/2200/20151111_153659.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At the bottom of the cooler, I’ve cut a hole big enough for the T-mount and any adapters I may use.  The offset from center is intentional to fit the camera:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/cooler/20151111_153743.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/20151111_153743.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/20151111_153743.jpg 250w,    /images/resized/320/20151111_153743.jpg 320w,    /images/resized/480/20151111_153743.jpg 480w,    /images/resized/800/20151111_153743.jpg 800w,    /images/resized/1200/20151111_153743.jpg 1200w,    /images/resized/1600/20151111_153743.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/20151111_153743.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/20151111_153743.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/20151111_153743.jpg 250w,    /images/resized/320/20151111_153743.jpg 320w,    /images/resized/480/20151111_153743.jpg 480w,    /images/resized/800/20151111_153743.jpg 800w,    /images/resized/1200/20151111_153743.jpg 1200w,    /images/resized/1600/20151111_153743.jpg 1600w,    /images/resized/2200/20151111_153743.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s an example with the 200mm lens attached (notice the ‘cooling can’ in the can section):&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/cooler/20151111_154022.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/20151111_154022.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/20151111_154022.jpg 250w,    /images/resized/320/20151111_154022.jpg 320w,    /images/resized/480/20151111_154022.jpg 480w,    /images/resized/800/20151111_154022.jpg 800w,    /images/resized/1200/20151111_154022.jpg 1200w,    /images/resized/1600/20151111_154022.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/20151111_154022.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/20151111_154022.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/20151111_154022.jpg 250w,    /images/resized/320/20151111_154022.jpg 320w,    /images/resized/480/20151111_154022.jpg 480w,    /images/resized/800/20151111_154022.jpg 800w,    /images/resized/1200/20151111_154022.jpg 1200w,    /images/resized/1600/20151111_154022.jpg 1600w,    /images/resized/2200/20151111_154022.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Now let’s test.&lt;/p&gt;
@@ -261,15 +261,15 @@ Image center ...... RA: 06 17 17.646  Dec: +22 44 35.39
       <item>
         <title>IC5070 - The Pelican Nebula</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/Pelican-full.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/Pelican-full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Pelican-full.jpg 250w,    /images/resized/320/Pelican-full.jpg 320w,    /images/resized/480/Pelican-full.jpg 480w,    /images/resized/800/Pelican-full.jpg 800w,    /images/resized/1200/Pelican-full.jpg 1200w,    /images/resized/1600/Pelican-full.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/Pelican-full.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/Pelican-full.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Pelican-full.jpg 250w,    /images/resized/320/Pelican-full.jpg 320w,    /images/resized/480/Pelican-full.jpg 480w,    /images/resized/800/Pelican-full.jpg 800w,    /images/resized/1200/Pelican-full.jpg 1200w,    /images/resized/1600/Pelican-full.jpg 1600w,    /images/resized/2200/Pelican-full.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The Pelican Nebula is next to the North American nebula (in fact part of it is visible on the left of the image).  This is a narrowband image consisting of 16 Ha 1200s, 12 OIII 1200s, and 12 SII 1200s mapped to RGB in a modified Hubble Palette, taken with a Tak FSQ106 and QSI683 camera.&lt;/p&gt;
 
 &lt;p&gt;The annotated image shows the center of the nebula, with the brightest stars 57 Cyg and 56 Cyg, and other stars magnitude 10 or brighter.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/Pelican-Annotated.jpg&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/1600/Pelican-Annotated.jpg&quot;&gt;
 &lt;img src=&quot;/images/resized/1600/Pelican-Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/Pelican-Annotated.jpg 250w,    /images/resized/320/Pelican-Annotated.jpg 320w,    /images/resized/480/Pelican-Annotated.jpg 480w,    /images/resized/800/Pelican-Annotated.jpg 800w,    /images/resized/1200/Pelican-Annotated.jpg 1200w,    /images/resized/1600/Pelican-Annotated.jpg 1600w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -298,21 +298,21 @@ Image center ...... RA: 20 51 36.570 Dec: +44 01 28.72&lt;/pre&gt;
       <item>
         <title>M74 - Spiral Galaxy</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m74-gallery.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/m74-gallery.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m74-gallery.jpg 250w,    /images/resized/320/m74-gallery.jpg 320w,    /images/resized/480/m74-gallery.jpg 480w,    /images/resized/800/m74-gallery.jpg 800w,    /images/resized/1200/m74-gallery.jpg 1200w,    /images/resized/1600/m74-gallery.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/m74-gallery.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/m74-gallery.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m74-gallery.jpg 250w,    /images/resized/320/m74-gallery.jpg 320w,    /images/resized/480/m74-gallery.jpg 480w,    /images/resized/800/m74-gallery.jpg 800w,    /images/resized/1200/m74-gallery.jpg 1200w,    /images/resized/1600/m74-gallery.jpg 1600w,    /images/resized/2200/m74-gallery.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;M74 is a beautiful grand-design galaxy in the constellation Pisces, but is also fairly dim and hard to see visually. Captured with QSI683 camera and 11” Edge SCT at f/10.  LRGB = 32x 10min Lum, with about 16x5min RGB binned 2x2.&lt;/p&gt;
 
 &lt;p&gt;According to &lt;a href=&quot;https://en.wikipedia.org/wiki/Messier_74&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;:  Messier 74 (also known as NGC 628) is a face-on spiral galaxy in the constellation Pisces. It is at a distance of about 32 million light-years away from Earth. The galaxy contains two clearly defined spiral arms and is therefore used as an archetypal example of a grand design spiral galaxy. The galaxy’s low surface brightness makes it the most difficult Messier object for amateur astronomers to observe. However, the relatively large angular size of the galaxy and the galaxy’s face-on orientation make it an ideal object for professional astronomers who want to study spiral arm structure and spiral density waves. It is estimated that M74 is home to about 100 billion stars.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m74-gallery-annotated.jpg&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/1200/m74-gallery-annotated.jpg&quot;&gt;
 &lt;img src=&quot;/images/resized/1200/m74-gallery-annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m74-gallery-annotated.jpg 250w,    /images/resized/320/m74-gallery-annotated.jpg 320w,    /images/resized/480/m74-gallery-annotated.jpg 480w,    /images/resized/800/m74-gallery-annotated.jpg 800w,    /images/resized/1200/m74-gallery-annotated.jpg 1200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;PGC 1496860, a magnitude 18 galaxy, is captured in the upper right:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m74-annotated-2.png&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/480/m74-annotated-2.png&quot;&gt;
 &lt;img src=&quot;/images/resized/480/m74-annotated-2.png&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m74-annotated-2.png 250w,    /images/resized/320/m74-annotated-2.png 320w,    /images/resized/480/m74-annotated-2.png 480w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -340,21 +340,21 @@ Image center ...... RA: 01 36 44.229 Dec: +15 47 15.72
       <item>
         <title>M45 - The Pleiades</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m45-hitney.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/m45-hitney.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45-hitney.jpg 250w,    /images/resized/320/m45-hitney.jpg 320w,    /images/resized/480/m45-hitney.jpg 480w,    /images/resized/800/m45-hitney.jpg 800w,    /images/resized/1200/m45-hitney.jpg 1200w,    /images/resized/1600/m45-hitney.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/m45-hitney.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/m45-hitney.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45-hitney.jpg 250w,    /images/resized/320/m45-hitney.jpg 320w,    /images/resized/480/m45-hitney.jpg 480w,    /images/resized/800/m45-hitney.jpg 800w,    /images/resized/1200/m45-hitney.jpg 1200w,    /images/resized/1600/m45-hitney.jpg 1600w,    /images/resized/2200/m45-hitney.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;M45 - The Pleiades or Seven Sisters is a favorite of mine.  A relatively close star cluster, the dust the cluster is moving through creates a beautiful reflection nebula.  This image was created from 30 600s luminance, 30 300s luminance, 30 60s luminance, and color from 20 each of RGB data binned 2x2 with a QSI683 mono camera and TAK FSQ106 f/5 scope.&lt;/p&gt;
 
 &lt;p&gt;Here’s an annotated version (click for larger):&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m45_final1_Annotated.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/m45_final1_Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45_final1_Annotated.jpg 250w,    /images/resized/320/m45_final1_Annotated.jpg 320w,    /images/resized/480/m45_final1_Annotated.jpg 480w,    /images/resized/800/m45_final1_Annotated.jpg 800w,    /images/resized/1200/m45_final1_Annotated.jpg 1200w,    /images/resized/1600/m45_final1_Annotated.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/m45_final1_Annotated.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/m45_final1_Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45_final1_Annotated.jpg 250w,    /images/resized/320/m45_final1_Annotated.jpg 320w,    /images/resized/480/m45_final1_Annotated.jpg 480w,    /images/resized/800/m45_final1_Annotated.jpg 800w,    /images/resized/1200/m45_final1_Annotated.jpg 1200w,    /images/resized/1600/m45_final1_Annotated.jpg 1600w,    /images/resized/2200/m45_final1_Annotated.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In the mid left is &lt;a href=&quot;http://ned.ipac.caltech.edu/cgi-bin/nph-objsearch?objname=PGC13696&amp;amp;extend=no&amp;amp;hconst=73&amp;amp;omegam=0.27&amp;amp;omegav=0.73&amp;amp;corr_z=1&amp;amp;out_csys=Equatorial&amp;amp;out_equinox=J2000.0&amp;amp;obj_sort=RA+or+Longitude&amp;amp;of=pre_text&amp;amp;zv_breaker=30000.0&amp;amp;list_limit=5&amp;amp;img_stamp=YES&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;galaxy PGC13696 / UGC 2838&lt;/a&gt;, a very small/faint mag 16 galaxy:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m45-pgc13696.png&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/800/m45-pgc13696.png&quot;&gt;
 &lt;img src=&quot;/images/resized/800/m45-pgc13696.png&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45-pgc13696.png 250w,    /images/resized/320/m45-pgc13696.png 320w,    /images/resized/480/m45-pgc13696.png 480w,    /images/resized/800/m45-pgc13696.png 800w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -368,8 +368,8 @@ Image center ...... RA: 03 46 47.283 Dec: +24 10 22.05
 
 &lt;p&gt;Here’s an older version taken earlier in 2015 with the same scope, but a Canon DSLR:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/m45-takdslr.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/m45-takdslr.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45-takdslr.jpg 250w,    /images/resized/320/m45-takdslr.jpg 320w,    /images/resized/480/m45-takdslr.jpg 480w,    /images/resized/800/m45-takdslr.jpg 800w,    /images/resized/1200/m45-takdslr.jpg 1200w,    /images/resized/1600/m45-takdslr.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/m45-takdslr.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/m45-takdslr.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/m45-takdslr.jpg 250w,    /images/resized/320/m45-takdslr.jpg 320w,    /images/resized/480/m45-takdslr.jpg 480w,    /images/resized/800/m45-takdslr.jpg 800w,    /images/resized/1200/m45-takdslr.jpg 1200w,    /images/resized/1600/m45-takdslr.jpg 1600w,    /images/resized/2200/m45-takdslr.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Nov 2015 18:12:04 -0500</pubDate>
@@ -390,19 +390,19 @@ Image center ...... RA: 03 46 47.283 Dec: +24 10 22.05
       <item>
         <title>NGC1499 - The California Nebula</title>
         <description>
-&lt;p&gt;&lt;a href=&quot;/images/redshift/California-Nebula.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/California-Nebula.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/California-Nebula.jpg 250w,    /images/resized/320/California-Nebula.jpg 320w,    /images/resized/480/California-Nebula.jpg 480w,    /images/resized/800/California-Nebula.jpg 800w,    /images/resized/1200/California-Nebula.jpg 1200w,    /images/resized/1600/California-Nebula.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/California-Nebula.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/California-Nebula.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/California-Nebula.jpg 250w,    /images/resized/320/California-Nebula.jpg 320w,    /images/resized/480/California-Nebula.jpg 480w,    /images/resized/800/California-Nebula.jpg 800w,    /images/resized/1200/California-Nebula.jpg 1200w,    /images/resized/1600/California-Nebula.jpg 1600w,    /images/resized/2200/California-Nebula.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;NGC1499 is a huge nebula resembling the state of California (hence the name).  At roughly 2.5 degrees wide, a full moon could fit about 4 times across in this image – quite large indeed!  In natural light, the nebula is red, but this image is a narrowband 2 frame mosaic (stitched together).  Taken with ta Tak FSQ 106 and QSI683 and 3nm Astrodon filters.  Approximately 30 hours total integration time, about half in Ha, and 8 hours each of SII and OIII.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/California_Nebula_Annotated.jpg&quot;&gt;
-&lt;img src=&quot;/images/resized/1600/California_Nebula_Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/California_Nebula_Annotated.jpg 250w,    /images/resized/320/California_Nebula_Annotated.jpg 320w,    /images/resized/480/California_Nebula_Annotated.jpg 480w,    /images/resized/800/California_Nebula_Annotated.jpg 800w,    /images/resized/1200/California_Nebula_Annotated.jpg 1200w,    /images/resized/1600/California_Nebula_Annotated.jpg 1600w&quot; /&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/2200/California_Nebula_Annotated.jpg&quot;&gt;
+&lt;img src=&quot;/images/resized/2200/California_Nebula_Annotated.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/California_Nebula_Annotated.jpg 250w,    /images/resized/320/California_Nebula_Annotated.jpg 320w,    /images/resized/480/California_Nebula_Annotated.jpg 480w,    /images/resized/800/California_Nebula_Annotated.jpg 800w,    /images/resized/1200/California_Nebula_Annotated.jpg 1200w,    /images/resized/1600/California_Nebula_Annotated.jpg 1600w,    /images/resized/2200/California_Nebula_Annotated.jpg 2200w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A few galaxies are visible in the bottom right – if it weren’t for the annotation (done in PixInsight), it would be easy to miss them:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/redshift/California_Nebula_Annotated2.jpg&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/images/resized/800/California_Nebula_Annotated2.jpg&quot;&gt;
 &lt;img src=&quot;/images/resized/800/California_Nebula_Annotated2.jpg&quot; class=&quot;&quot; alt=&quot;&quot; srcset=&quot;    /images/resized/250/California_Nebula_Annotated2.jpg 250w,    /images/resized/320/California_Nebula_Annotated2.jpg 320w,    /images/resized/480/California_Nebula_Annotated2.jpg 480w,    /images/resized/800/California_Nebula_Annotated2.jpg 800w&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
