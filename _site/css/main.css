@@ -277,7 +277,7 @@ blockquote{
 @media only screen and (max-width: 1366) {
 
 	#posts ul li {
-		width: 273px;
+		width: 250px;
 	}
 }
 
@@ -285,7 +285,7 @@ blockquote{
 @media only screen and (max-width: 1280) {
 
 	#posts ul li {
-		width: 252px;
+		width: 250px;
 	}
 
 }
@@ -296,7 +296,7 @@ only screen and (max-device-width:1024px),
 only screen and (max-width: 1024px) {
 
 	#posts ul li {
-		width: 265px;
+		width: 250px;
 	}
 
 }
@@ -307,7 +307,7 @@ only screen and (max-device-width:768px),
 only screen and (max-width: 768px) {
 
 	#posts ul li {
-		width: 300px;
+		width: 250px;
 	}
 }
 
@@ -326,7 +326,7 @@ only screen and (max-width: 600px) {
 	}
 
 	#posts ul li {
-		width: 95%;
+		width: 250px;
 	}
 
 	#side-bar {
