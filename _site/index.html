@@ -14,8 +14,16 @@
 			hljs.initHighlightingOnLoad();
 			function applyTiles() {
 				var posts = $('#posts ul');
+				//var gallerysize = ($('#posts').width()/4)-10;
+				//$('#sometext').text(gallerysize);
+				//$( "#logosubtext" ).css( "border", "3px solid red" );
+				//alert(gallerysize);
 				posts.imagesLoaded(function() {
-					$('#posts ul').masonry({ itemSelector : '.post' });;
+					$('#posts ul').masonry({ 
+						itemSelector : '.post'
+						//,columnWidth: gallerysize								
+					});
+					//$('#posts ul li').width(gallerysize);
 				});
 			}
 			$(function() {
@@ -28,11 +36,11 @@
 		<style type="text/css">
 		</style>
 	</head>
-	<body>
+	<body>	
 		<div id='layout'>
 			<section id="home-hero"><a href="/">
-	<div class='logotext'><span style="color:red; font-weight: 600; padding-right:3px;">r</span>edshift astro</div>
-	<div class='logosubtext'>astrophotography blog / brian hitney</div></a>
+	<div id='logotext' class='logotext'><span style="color:red; font-weight: 600; padding-right:3px;">r</span>edshift astro</div>
+	<div id='logosubtext' class='logosubtext'>astrophotography blog / brian hitney</div></a>
 </section>
 
 			<div style='clear: both'></div>
