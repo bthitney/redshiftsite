@@ -12,24 +12,52 @@
 		<script type="text/javascript" src='/js/highlight.pack.js'></script>
 		<script type="text/javascript">
 			hljs.initHighlightingOnLoad();
+
 			function applyTiles() {
-				var posts = $('#posts ul');
-				//var gallerysize = ($('#posts').width()/4)-10;
-				//$('#sometext').text(gallerysize);
-				//$( "#logosubtext" ).css( "border", "3px solid red" );
-				//alert(gallerysize);
+				var posts = $('#posts');
+				
 				posts.imagesLoaded(function() {
 					$('#posts ul').masonry({ 
 						itemSelector : '.post'
-						//,columnWidth: gallerysize								
+						//,columnWidth: postsWidth	
+						//,columnWidth: '.grid-sizer'
+  						//,percentPosition: true					
 					});
-					//$('#posts ul li').width(gallerysize);
-				});
+					//$('#posts ul li').width(postsWidth);
+				});				
 			}
+
+			function resizeElements(){					
+				var content = $('#content');
+				var nav = $('#nav');
+				var posts = $('#posts');
+				var postsul = $('#posts ul');
+				var postsWidth = $('#posts').width();
+				var shiftamount = (postsWidth % 270);
+				//if (shiftamount < 0) shiftamount = 0;
+				
+				var newWidth = content.width() - 200 - shiftamount;
+				$('#info1').text('posts: ' + postsWidth);
+				$('#info2').text('postsul: ' + postsul.width());
+				$('#info3').text('shiftamount: ' + shiftamount);
+				$('#info4').text('content: ' + content.width());
+				$('#info5').text('nav: ' + nav.width());
+				$('#info6').text('new: ' + newWidth);
+				$('#info7').text('newcalc: ' + newPostscalc);
+				
+				//applyTiles();
+				var newPostscalc = 'calc(100% - ' + (200 + shiftamount) + 'px)'; 
+				var newNavcalc = 'calc(15% + ' + shiftamount + 'px)'; 
+				$('#posts').width(newPostscalc);
+				//$('#nav').width(newNavcalc);
+			}
+
 			$(function() {
+			//	resizeElements();
 				applyTiles();
 			});
 			$(window).resize(function() {
+			//	resizeElements();
 				applyTiles();
 			});
 		</script>
@@ -40,13 +68,103 @@
 		<div id='layout'>
 			<section id="home-hero"><a href="/">
 	<div id='logotext' class='logotext'><span style="color:red; font-weight: 600; padding-right:3px;">r</span>edshift astro</div>
-	<div id='logosubtext' class='logosubtext'>astrophotography blog / brian hitney</div></a>
+	<div id='logosubtext' class='logosubtext'>astrophotography blog / brian hitney</div></a>	
 </section>
+<div class="categories">
+	
+	
+	
 
+		
+	
+		
+
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/clusters"><span class="badge">clusters</span></a><div class="badgeNumber">3</div>
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/galaxies"><span class="badge">galaxies</span></a><div class="badgeNumber">15</div>
+		
+	
+
+		
+	
+		
+
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/misc"><span class="badge">misc</span></a><div class="badgeNumber">1</div>
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/narrowband"><span class="badge">narrowband</span></a><div class="badgeNumber">10</div>
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/nebulae"><span class="badge">nebulae</span></a><div class="badgeNumber">25</div>
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/projects"><span class="badge">projects</span></a><div class="badgeNumber">1</div>
+		
+	
+
+		
+	
+		
+
+		
+			<a class="badge" href="/category/solar system"><span class="badge">solar system</span></a><div class="badgeNumber">3</div>
+		
+	
+</div>
 			<div style='clear: both'></div>
 		</div>
+		<!--
+		<span id="info1"></span> | 
+		<span id="info2"></span> | 
+		<span id="info3"></span> |
+		<span id="info4"></span> |
+		<span id="info5"></span> |
+		<span id="info6"></span> |
+		<span id="info7"></span> 			
+		-->
 		<div id='content' class="hp">
-			<div id='posts' class="leftblock">
+			<div id='posts' class="leftblock">				
 				<ul>			
 							
 					
@@ -1134,7 +1252,7 @@
 					
 				</ul>
 			</div>
-			<div class="rightblock">
+			<div id='nav' class="rightblock">
 				
 
 
